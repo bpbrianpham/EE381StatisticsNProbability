@@ -1,6 +1,10 @@
 # EE 381 Project 5
 # Linear Relationship Between Two Random Variables
-# Mark Tan
+#Rayhaan Shaikh 
+#Mark Tan 
+#Andrew Soth 
+#Brian Pham 
+#Preston Wong
 
 import math
 import numpy as np
